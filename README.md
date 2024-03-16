@@ -9,3 +9,5 @@
   - Defining layouts (flexbox, grid) for arranging content responsively.
   - Applying typography styles (fonts, sizes, colors) for clear readability.
   - Using colors, backgrounds, and images to create a distinct brand identity for Namu.
+- JavaScript:
+  - Implementing animations for a more engaging user experience (e.g., smooth transitions, fading elements).
